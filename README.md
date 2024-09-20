@@ -23,3 +23,5 @@ The *VITrack* app is here to level up the campus experience for VIT students—b
 - Hop On—your go-to feature for budget-friendly rides! Whether you’re jetting off to the airport or catching a train, team up with fellow hostellers to pool cabs and save some cash.Just connect with friends or find new buddies heading the same way, and make your travel smoother and cheaper
 
 VITrack makes campus commuting, event hopping, and travel planning super easy for every student. Let’s go!
+
+TO DO LIST:
