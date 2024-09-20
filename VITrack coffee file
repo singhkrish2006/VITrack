@@ -1,0 +1,23 @@
+<div style={{width: 430, height: 2371, position: 'relative', background: 'rgba(0, 0, 0, 0.20)'}}>
+  <div style={{width: 375, height: 80, left: 27, top: 29, position: 'absolute', mixBlendMode: 'screen', background: 'black', border: '1px black solid', backdropFilter: 'blur(4px)'}} />
+  <div style={{width: 270, left: 102, top: 41, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 65, fontFamily: 'Pixelify Sans', fontWeight: '700', wordWrap: 'break-word'}}>VITrack</div>
+  <div style={{width: 204, height: 55, left: 113, top: 349, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 40, fontFamily: 'Pixelify Sans', fontWeight: '500', wordWrap: 'break-word'}}>trAcK iT</div>
+  <div style={{width: 300, height: 81, left: 71, top: 400, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 15, fontFamily: 'Pixelify Sans', fontWeight: '400', wordWrap: 'break-word'}}>shuttle tracking  lets you see real-time shuttle locations so you’re never late for class or labs. Just check the app, know exactly when the shuttle's coming, and avoid the last-minute sprint!</div>
+  <img style={{width: 192, height: 187, left: 126, top: 162, position: 'absolute', mixBlendMode: 'screen'}} src="https://via.placeholder.com/192x187" />
+  <img style={{width: 267, height: 272, left: 87, top: 517, position: 'absolute', mixBlendMode: 'screen'}} src="https://via.placeholder.com/267x272" />
+  <div style={{width: 257, height: 49, left: 97, top: 772, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 40, fontFamily: 'Pixelify Sans', fontWeight: '700', wordWrap: 'break-word'}}>LuGGheLp !!</div>
+  <div style={{width: 305, height: 103, left: 66, top: 824, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 15, fontFamily: 'Pixelify Sans', fontWeight: '400', wordWrap: 'break-word'}}>Luggage Help feature, perfect for hostellers! Whether you're moving rooms mid-year or heading home for the holidays, we’ve got your back. Just hit up Lugghelp, and we’ll handle your luggage and mattress transfer like pros. Let’s make moving easy, fam!</div>
+  <img style={{width: 267, height: 178, left: 87, top: 1010, position: 'absolute', mixBlendMode: 'screen'}} src="https://via.placeholder.com/267x178" />
+  <img style={{width: 93, height: 92, left: 177, top: 1157, position: 'absolute', mixBlendMode: 'screen'}} src="https://via.placeholder.com/93x92" />
+  <div style={{width: 38, height: 40, paddingLeft: 4.75, paddingRight: 4.75, paddingTop: 10, paddingBottom: 10, left: 27, top: 63, position: 'absolute', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div style={{width: 28.50, height: 20, background: '#FEF7FF'}}></div>
+  </div>
+  <div style={{width: 262, height: 57, left: 95, top: 1256, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 40, fontFamily: 'Pixelify Sans', fontWeight: '500', wordWrap: 'break-word'}}>rusH-raDar</div>
+  <div style={{width: 296, height: 166, left: 76, top: 1307, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 15, fontFamily: 'Pixelify Sans', fontWeight: '400', wordWrap: 'break-word'}}> RushRadar, your ultimate guide to campus hangouts! Whether you're hitting up Foodys, FC, DC, Enzo, Balaji Store, All Mart, or crushing it at Fitty Gym or Trendset Gym, we've got the 411 on the rush. Get real-time updates on crowds so you can plan your vibe without the wait. No more FOMO—just chill vibes and good eats, all at your fingertips</div>
+  <img style={{width: 274, height: 190, left: 81, top: 1515, position: 'absolute', mixBlendMode: 'screen'}} src="https://via.placeholder.com/274x190" />
+  <div style={{width: 257, height: 68, left: 94, top: 1706, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 40, fontFamily: 'Pixelify Sans', fontWeight: '500', wordWrap: 'break-word'}}>hoP-On</div>
+  <div style={{width: 289, height: 163, left: 75, top: 1769, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 15, fontFamily: 'Pixelify Sans', fontWeight: '400', wordWrap: 'break-word'}}>Hop On—your go-to feature for budget-friendly rides! Whether you’re jetting off to the airport or catching a train, team up with fellow hostellers to pool cabs and save some cash.Just connect with friends or find new buddies heading the same way, and make your travel smoother and cheaper</div>
+  <img style={{width: 25, height: 35, left: 300, top: 351, position: 'absolute', mixBlendMode: 'screen'}} src="https://via.placeholder.com/25x35" />
+</div>
+<div style={{width: 430, height: 932, position: 'relative', background: 'black'}} />
+<div style={{width: 313, height: 488, position: 'relative', mixBlendMode: 'multiply', background: 'black'}} />
